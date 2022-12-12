@@ -1,0 +1,73 @@
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Argentina 2022</string>
+    <string name="player_name_1">Franco Armani</string>
+    <string name="player_name_2">Juan Foyth</string>
+    <string name="player_name_3">Nicolás Tagliafico</string>
+    <string name="player_name_4">Gonzalo Montiel</string>
+    <string name="player_name_5">Leandro Paredes</string>
+    <string name="player_name_6">Germán Pezzella</string>
+    <string name="player_name_7">Rodrigo De Paul</string>
+    <string name="player_name_8">Marcos Acuña</string>
+    <string name="player_name_9">Julián Álvarez</string>
+    <string name="player_name_10">Lionel Messi</string>
+    <string name="player_name_11">Ángel Di María</string>
+    <string name="player_name_12">Gerónimo Rulli</string>
+    <string name="player_name_13">Cristian Romero</string>
+    <string name="player_name_14">Exequiel Palacios</string>
+    <string name="player_name_15">Ángel Correa</string>
+    <string name="player_name_16">Thiago Almada</string>
+    <string name="player_name_17">Papu Gómez</string>
+    <string name="player_name_18">Guido Rodríguez</string>
+    <string name="player_name_19">Nicolás Otamendi</string>
+    <string name="player_name_20">Alexis Mac Allister</string>
+    <string name="player_name_21">Paulo Dybala</string>
+    <string name="player_name_22">Lautaro Martínez</string>
+    <string name="player_name_23">Emiliano Martínez</string>
+    <string name="player_name_24">Enzo Fernández</string>
+    <string name="player_name_25">Lisandro Martínez</string>
+    <string name="player_name_26">Nahuel Molina</string>
+    <string name="player_description_1">River Plate, Argentine, Caps: 18</string>
+    <string name="player_description_2">Villarreal, Spain, Caps: 16</string>
+    <string name="player_description_3">Lyon, France, Caps: 42</string>
+    <string name="player_description_4">Sevilla, Spain, Caps: 18</string>
+    <string name="player_description_5">Juventus, Italy, Caps: 46</string>
+    <string name="player_description_6">Real Betis, Spain, Caps: 32</string>
+    <string name="player_description_7">Atlético Madrid, Spain, Caps: 44</string>
+    <string name="player_description_8">Sevilla, Spain, Caps: 43</string>
+    <string name="player_description_9">Manchester City, England, Caps: 12</string>
+    <string name="player_description_10">Paris Saint-Germain, France, Caps: 165</string>
+    <string name="player_description_11">Juventus, Italy, Caps: 124</string>
+    <string name="player_description_12">Villarreal, Spain, Caps: 4</string>
+    <string name="player_description_13">Tottenham Hotspur, England, Caps: 12</string>
+    <string name="player_description_14">Bayer Leverkusen, German, Caps: 20</string>
+    <string name="player_description_15">Atlético Madrid, Spain, Caps: 22</string>
+    <string name="player_description_16">Atlanta United FC, USA, Caps: 1</string>
+    <string name="player_description_17">Sevilla, Spain, Caps: 15</string>
+    <string name="player_description_18">Real Betis, Spain, Caps: 26</string>
+    <string name="player_description_19">Benfica, Portugal, Caps: 93</string>
+    <string name="player_description_20">Brighton &amp; Hove Albion, England, Caps: 8</string>
+    <string name="player_description_21">Roma, Italy, Caps: 34</string>
+    <string name="player_description_22">Internazionale, Italy, Caps: 40</string>
+    <string name="player_description_23">Aston Villa, England, Caps: 19</string>
+    <string name="player_description_24">Benfica, Portugal, Caps: 3</string>
+    <string name="player_description_25">Manchester United, England, Caps: 10</string>
+    <string name="player_description_26">Atlético Madrid, Spain, Caps: 20</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
