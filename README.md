@@ -1,9 +1,8 @@
-Woof App
+Google-Compose-2022-Agentina-Squad
 ==================================
 
-The Woof app is a list of dog photos with information about them including their name,
-age, and favorite activity. This app also uses Material Design to create a beautiful app
-experience for the user.
+The Agentina app is a list of Agentina's football player's photos with information about them including their name,
+age, and their team. This app also uses Material Design to create a beautiful app experience for the user.
 
 Introduction
 ------------
@@ -15,15 +14,15 @@ with Compose.
 Pre-requisites
 --------------
 
--Rows/Columns
--Modifiers
--Scaffold
--Adding images
--Button click handlers
--Functions
--Classes
--Lists
--App architecture
+- Rows/Columns
+- Modifiers
+- Scaffold
+- Adding images
+- Button click handlers
+- Functions
+- Classes
+- Lists
+- App architecture
 
 Getting Started
 ---------------
